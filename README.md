@@ -6,3 +6,5 @@ Polygon Deploys:
 - Test Link: https://polygon-nft-marketplace.netlify.app/
 
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/24545141/168192590-98e69647-65f4-4ddc-9af6-a54d9bd48d39.png">
+
+![NFT Polygon Marketplace](https://user-images.githubusercontent.com/24545141/168404605-ad4087e7-a359-4a2c-ae8b-8fff9b2143e1.gif)
