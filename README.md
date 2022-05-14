@@ -1,4 +1,4 @@
-# Testing Polygon Network
+# Testing dApps in Polygon Network
 
 Polygon Deploys: 
 - https://mumbai.polygonscan.com/address/0x84f931df714538A7CC702AB0905E8A431C413896
