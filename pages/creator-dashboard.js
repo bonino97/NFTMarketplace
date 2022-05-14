@@ -55,9 +55,17 @@ export default function CreatorDashboard() {
     setLoadingState("loaded");
   }
   if (loadingState === "loaded" && !nfts.length)
-    return <h1 className="py-10 px-20 text-3xl text-pink-100">No assets created</h1>;
+    return (
+      <div style={{ maxWidth: "1600px", minHeight: "720px" }}>
+        <h1 className="py-10 px-20 text-3xl text-pink-100">
+          No assets created
+        </h1>
+        ;
+      </div>
+    );
+
   return (
-    <div>
+    <div style={{ maxWidth: "1600px", minHeight: "720px" }}>
       <div className="p-4">
         <h2 className="text-2xl py-2 text-pink-100">Items Created</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-4">
